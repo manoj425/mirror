@@ -1,5 +1,0 @@
-name-manoj kumar reddy
-age-26
-dob-13/01/1990
-religion-hindu
-place-khammam
